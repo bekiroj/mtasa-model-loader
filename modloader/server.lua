@@ -12,7 +12,19 @@ for index, value in ipairs(self.meta.children) do
 	if value.name == 'file' then
 		self.model = tonumber(value:getAttribute('model'));
 		self.file = value:getAttribute('src');
-		table.insert(self.models, {file = self.file, model = self.model});
+		if self.file:find('.txd') then
+			table.insert(self.models, {file = self.file, model = self.model});
+		end
+	end
+end
+
+for index, value in ipairs(self.meta.children) do
+	if value.name == 'file' then
+		self.model = tonumber(value:getAttribute('model'));
+		self.file = value:getAttribute('src');
+		if self.file:find('.dff') then
+			table.insert(self.models, {file = self.file, model = self.model});
+		end
 	end
 end
 
