@@ -1,0 +1,12 @@
+﻿<meta>
+	<oop>true</oop>
+	
+	<script src = 'client.lua' type = 'client' cache='false'/>
+	<script src = 'server.lua' type = 'server'/>
+	
+	<file src = 'assets/example.txd' download = 'false' model = '1'/>
+	<file src = 'assets/example.dff' download = 'false' model = '1'/> 
+
+	<file src = 'assets/example2.txd' download = 'false' model = '411'/>
+	<file src = 'assets/example2.dff' download = 'false' model = '411'/> 
+</meta>
