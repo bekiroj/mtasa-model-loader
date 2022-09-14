@@ -1,0 +1,10 @@
+C:\Users\yourp\source\repos\collector\collector\bin\Debug\collector.exe.config
+C:\Users\yourp\source\repos\collector\collector\bin\Debug\collector.exe
+C:\Users\yourp\source\repos\collector\collector\bin\Debug\collector.pdb
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.csproj.AssemblyReference.cache
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.Form1.resources
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.Properties.Resources.resources
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.csproj.GenerateResource.cache
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.csproj.CoreCompileInputs.cache
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.exe
+C:\Users\yourp\source\repos\collector\collector\obj\Debug\collector.pdb
